@@ -1,2 +1,0 @@
-# cycle
-Just another repository
